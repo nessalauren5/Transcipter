@@ -1,4 +1,4 @@
-# Transcipter
+# Transcripter
 Written to compile/comptact omscs transcripts (.srt) into notes
 
 #Use

@@ -1,0 +1,372 @@
+01 - Introduction
+
+
+In this lesson we'll explore the unique characteristics of the U.S. healthcare  system, with a particular emphasis on the mismatch between what it's good at and  its structural issues which contribute to poor management of chronic disease,  the problems that account for most healthcare costs. Now it's time to  meet Marla, the chronic disease patient who will help us explore these issues.
+
+
+02 - Meet Marla
+
+
+This is Marla, a 59 year old woman who has become obese as she aged.  She has also smoked cigarettes for many years.  As a result she has developed several chronic diseases. Through Marla and  her story, we'll learn about chronic disease and the problem it creates for  the US health care system. We'll also gain the background to appreciate the key  role informatics can play in helping solve those problems. First,  Marla is not unusual. The Federal Government's Medicare program provides  health care for some 40 million people over the age of 65 and  pays for nearly half of U.S. hospital care, it is projected to  be a major contributor to future increases in health care spending.  83% of Medicare beneficiaries have at least chronic disease,  but the 23% that have 5 or more account for 2/3 of Medicare's costs.  Here is a list of relatively common chronic diseases. So now you know what some  of them are. I could have added cancer, since many people are surviving it and  being treated for years but we'll use this list for now. If you,  anyone in your family or anyone you know closely have had hypertension,  diabetes, chronic obstructive pulmonary disease, heart disease or  chronic kidney disease check that now.
+
+
+03 - Acute Medical Problems
+
+
+Before we get back to Marla, there's one thing you should know about chronic  disease. Medical problems like the flu and most other infections or  fractures, or so-called acute medical problems, because they either go away or  can be cured in a relatively short timeframe. Chronic problems are,  by definition, not curable. The best we can do is help the patient manage them,  so they don't get worse, and the often terrible complications of these diseases,  including death, either don't occur or are delayed.
+
+
+04 - Identifying Chronic Diseases
+
+
+Before answering this question I want to urge you to carefully read  all of the answers. It's entirely possible that more than  one will technically be correct. We're looking for the best answer. So,  by now it should be clear that chronic diseases are very important. So let's,  make sure you understand their key characteristics. Which of these is  not a chronic disease? Check any and all that apply.
+
+
+05 - Identifying Chronic Diseases
+
+
+As you can see, there are two answers.  An upper respiratory tract infection. Remember we said, infections were  an example of what is usually an acute medical problem. And an arm fracture.  Which is the other example we gave of what is usually an acute medical problem.
+
+
+06 - Categorizing
+
+
+Which of these are not true of chronic disease? Once again,  check any and all that apply.
+
+
+07 - Categorizing
+
+
+Here again there's more than one answer. Chronic diseases don't recur  after going away for long periods of time. They're chronic. Once you have them  you have them. And children are getting chronic diseases. In fact,  because more and more children are, at least in the United States, more and  more children are developing chronic diseases at an earlier and earlier age.
+
+
+08 - Chronic Disease Summary
+
+
+By now, you should have a clear picture of the key differences between  chronic and acute diseases. Unlike acute medical problems,  chronic diseases are more often caused by behavior, generally can't be cured,  and particularly if not well managed, can cause other chronic diseases and  complications that are difficult and  expensive to treat. Now with Marla's help we'll turn again to what for  our purposes is probably the key issue with respect to chronic disease. Though  they're very common, our healthcare system is not well designed to manage them.
+
+
+09 - Marlas Chronic Diseases
+
+
+Now back to Marla who already has four chronic diseases, she developed diabetes  15 years ago and is now showing early signs of lung problems called  chronic obstructive pulmonary disease, or COPD for short. In recent years,  her blood pressure has become elevated, and she is also taking medications for  that. She was also recently diagnosed with a heart problem  called coronary artery disease, and needs even more medications.  We already know one thing about chronic diseases they can't be cured.  Marla illustrates two other key points, they are often caused by behavior.  Marla,s obesity is caused by her poor diet rich in processed foods with  too many calories from fats and carbohydrates, combined with far too little  physical activity. This weight gain contributed to her developing diabetes and  high blood pressure,her lung disease was caused by her smoking. The second  key point about chronic diseases is they can cause other chronic diseases.  Marla's diabetes and high blood pressure contributed to the development of her  heart disease, and puts her at a greater risk for heart attack or  stroke. If her diabetes and high blood pressure are not well controlled,  she could develop chronic kidney disease and other more serious problems.
+
+
+10 - Fragmentation and Lack of Coordination
+
+
+Marla and the treatment of her chronic diseases can also help us understand  a key problem in our health care delivery system. It's fragmentation and  lack of coordination, and how infomatics can help fix that.  One way is by enabling a different approach to care.  Marla may have many problems, but she's still one person, so  her problems need to be managed in a coordinated way and within the context of  her capabilities, lifestyle, resources, and social situation.
+
+
+11 - Primary Care Physician PCP
+
+
+The term for this is Patient-Centered Care. This may sound like a strange term,  but the traditional health care system has often been designed and  optimized around the needs of providers, not patients. As a result,  care can be inconvenient. Patients have to wait appointments. And  may have to wait even once they arrive in the clinic.  All of this discourages coming, particularly for routine preventive care.  Patient Centered Care is designed around the needs of patients,  who may even be able to be seen the same day they request an appointment.  This care is delivered by a team. So that routine problems that  don't require a physician can be handled by a nurse or other provider. Again,  on a much more convenient and timely basis. A key tenant of patient  centered care is that all patients should have a Primary Care Physician, or PCP.  This is usually a family physician, general internist, or O-B-G-Y-N for  adults and a Pediatrician for children. There job includes having  a complete view of a patient and coordinating the care delivered by the team or  even other physicians. In a well-coordinated health care system,  every patient has a PCP. Since they may not have the skills or  knowledge to manage all of the problems a patient like Marla has,  part of the PCP's job is to refer patients to specialist, when needed, but  still to coordinate and oversee all of their care. In this last role,  the PCP is often referred to as the Gate Keeper. The person who  makes decisions about when they're patients need expensive, specialized care.
+
+
+12 - Health Maintenance Organization HMO
+
+
+Here in the US, the PCP as gatekeeper is almost always used by  health maintenance organizations or HMO's.  There's data to show that this provides better care quality at a lower cost.  Because of their key role in coordinating care, HMO physicians almost  always have electronic patient records, and have for some time now.  However, HMO's also almost always provide a more limited choice of physicians  as a means of cost control and to facilitate managing care quality. Marla,  like many Americans, gets health insurance from her employer. At work,  she didn't select an HMO mostly because she wanted a wider physician selection.  And she didn't like the idea of someone deciding for  her if she needed specialty care. She preferred to do that herself. As a result,  she doesn't have a PCP and get all of her care from many specialists.  Each of them focuses on the problem she has that is in their domain.
+
+
+13 - The Decline of PCPs
+
+
+In general, too much patient care in the US is provided this way. In part,  as we just discussed, this is because of patient choice. But,  if all patients wanted a PCP, we don't have enough of them to go around.  Only 12.3% of US patients practice primary care,  versus around 50% in France. The same comparison holds  true with other advanced industrialized nations. You can see here,  the US lags substantially in the percentage of primary care physicians.  The full reasons to be on this scope of this course. But one of them is that  specialists, shown in green here, makes significantly more money than PCP's.  Yet, as also shown here in blue, they leave medical school with the same  debt level. So it shouldn't be a surprise, as shown here, that over  the years the percentage of medical school graduates of selecting primary care,  the bottom blue line here, has decreased as the salary of a PCP,  as a percentage of what a specialist makes, has also declined.
+
+
+14 - The Job of a PCP
+
+
+By now it should be clear that PCPs are important. So,  let's make sure you understand their key characteristic. The jobs of  a PCP includes which of the following? Check all that apply.
+
+
+15 - The Job of a PCP
+
+
+In fact they're all correct. PCP's do direct directly care for their patients,  like any other physician. They refer their patients to specialists as needed,  we, we said that. They coordinate all of the care for their patients, no matter  who provides it, we also said that. And they promote patient-centered care.
+
+
+16 - PCPs in the US
+
+
+Which of the following are true about PCPs in the United States? Again, check any and all that apply.
+
+
+17 - PCPs in the US
+
+
+In this case, none of the answers are true. We certainly didn't say that PCPs  usually practice in a hospital. We know that they're in under, not oversupply.  We know that they make less than more specialized physicians and  as a result of that, we also know that primary care is decreasing in  popularity among medical school graduates.
+
+
+18 - Types of PCPs
+
+
+So, which of the following is not a PCP? Once again,  check any and all that apply.
+
+
+19 - Types of PCPs
+
+
+Here only the first answer is correct, a heart surgeon. We specifically listed  family physicians, obstetrician, and pediatricians as primary care physicians.
+
+
+20 - Chronic Disease Summary 2
+
+
+So, now you understand a bit about the alternate models of care delivery but  you may be asking, why does this matter? For the answers to that,  we turning in tomorrow to explore some of the serious problems facing U.S.  healthcare. This will set the stage for understanding the key  role that health IT may play in improving our healthcare system.
+
+
+21 - Healthcare Spending
+
+
+So, why is what we've covered so far important? Because these are some of  the reasons that the U.S. spends far more per capita, typically twice  as much on healthcare than other advanced industrialized nations.  That's certainly true if you again compare the U.S. to France. Moreover,  while increases in U.S. healthcare spending have slowed in recent years for  reasons that aren't yet clear, historically, our healthcare costs have  grown much faster than those in the same group of nations.  The [UNKNOWN] growth of chronic disease is one of the key reasons why.  Net spending might be okay if we were getting a great result, but again,  comparing the U.S., here, to this group of  industrialized countries and even some others, we rank 26th  in life expectancy, shown here. We're also a clear outlier,  spending far more but dying younger than the citizens of these other  countries that spend far less. Clearly a serious problem, but you may be asking,  what does that have to do with health informatics? We turn to that now.
+
+
+22 - Proliferation of Specialists
+
+
+Here's a key number, 14. Studies show that patients like Marla,  patients with four or five or more chronic conditions, are seen on average  each year by 14 different physicians. So why is this the case? Well,  they have a lot of problems that involve many different parts of their body.  In Marla's case, her lungs, her heart, her blood vessels, and  the insulin control system which is centered in an organ called the pancreas.
+
+
+23 - PCP vs Specialists
+
+
+There is a specialist, for each of these body systems. A Cardiologist for the Heart. A Pulmonary Specialist for the Lungs. An Endocrinologist for Diabetes. And an Internist to manage Hypertension. Unless Marla develops a particularly severe issue, of PCP might manage all of these problems. With occasional help from a specialist. Since she doesn't have a PCP, she ends up just seeing specialists. Unless things change, this trend towards specially care is projected to grow. By now you're probably wondering why this is a problem. Well primary care physicians have been shown. To deliver similar quality to specialists, for certain conditions such as Diabetes and Hypertension. Often while using fewer resources. They often provide better preventive care than specialists. Reflecting their ability to better manage the whole health of patients. And can help to reduce hospitalization rates.
+
+
+24 - Value of a PCP
+
+
+In fact it's been shown that if you increase the supply of primary care  physicians by just one for every 10,000 people. There's a significant increase  in quality and a significant decrease in the cost of Medicare which you may  remember takes care of older people who are more likely to have chronic disease.  Conversely, if there's a similar decrease in the availability of  primary care physicians, there's an almost equal decrease in quality, and  a nearly equal increase in the cost of Medicare. You may be asking,  why? Well, one of the major reasons is that specialists charge more.  And they do far more test than procedures. Moreover,  how do they coordinate their care? How does each of these specialists, and  remember Marla may not even see the same cardiologist every time she  visits that office, know what all of the others are doing?  In particular,. How do each of these specialists know what medications,  all the others have prescribed? This is important, because  the same research that showed Marla will likely see 14 providers each year,  also showed she will likely fill 50 prescriptions that same year.
+
+
+25 - PCPs Need IT Help
+
+
+However, even a PCP alone may not solve a coordination problem without some  electronic assistance. It's too complicated for that. Let's discuss the care  coordination situation facing the typical PCP who sees a lot of chronic disease  patients like Marla. Remember, there are 14 physicians involved in the care for  each of those patients. Studies have shown that there are a total of  86 physicians involved in caring for all patients like Marla,  in this one PCP's practice. Overall, this typical patient  center medical home interacts with 229 physicians each year.
+
+
+26 - PCPs Improve Care Coordination
+
+
+In fact, no matter what the care setting without electronic assistance, physicians don't often coordinate well. The commonwealth fund surveys patients like Marla. In 2011 they found that, quote, to varying degrees in all countries, chronically ill or sicker patients encounter failures of providers to communicate with each other or coordinate care. Yet in each country, patients with primary care practices that help them navigate the care system, and provide easy access are far less likely to encounter duplication delays and failures to share information. On set here, is that almost all patients in patient centered practices, shown in red here, are using electronic records. And you can see that they have lower, actually, significantly lower reported rates of care coordination problems.
+
+
+27 - IT To The Rescue
+
+
+In fact using electronic medical records is part of the definition,  of one of the most common forms of patient centered  care; the Patient Centered Medical home. Else where a key culprit,  in creating these coordination problems, has been paper records.  They can physically be in only one place, and are not easily shared.  Even if shared, they may not be easily understood due to legibility issues or  differences among physicians, in the terms they use to describe the same thing.  Most of Marla's specialists use paper records. Until recently,  here in the U.S, most physicians used them. This is rapidly changing, because,  of the new federal policies we'll explain in lesson two.  Electronic records and data sharing can help coordinate care.  Here's data from a recent survey of physicians who are using these technologies,  and they substantially agree that it helps improve communication,  more available data. Interestingly and importantly, both PCPs and  specialists. With electronic records, say care is more coordinated and  communications are improved, presumably because data is immediately available  when and where it is needed, as the majority of these physicians reported.
+
+
+28 - Using IT to Build a Better Healthcare System
+
+
+And that's the primary goal of contemporary health [UNKNOWN]. To turn our fragmented, poorly coordinated health care system into a system that uses digital information in a seamless way to provide optimal care to all patients. Even those as complicated as Morella. To understand that with more detail, in lesson three, we'll go with Morella as she visits her endocrinologist, her diabetes doctor, Doctor Johnson.
+
+
+33 - Recap
+
+
+With Marla's help, we've covered some of the key problems in US healthcare and  some of the principal arguments for the increased use of health IT.  Most health care is concerned with the management of chronic diseases.  Proper management requires a highly coordinated, more continuous approach to  care that welds together many providers into a seamless delivery system.  At the center of such a patient centered system of care is the primary care  physician, whose role is knowing everything about their patients, so  they can coordinate their care. In practice this is very difficult to  achieve because of the shortage of primary care physicians here in the US and  the large number of providers who are involved. Particularly in the care of  patients like Marla who have multiple chronic diseases.  Coordinating this requires electronic records, ideally for the providers and  patients, and the seamless exchange of information among them.  This same information can be used to manage health of populations of patients or  the public at large. It can also be used for research to gain new  medical knowledge and even learn how we can improve health care delivery.
+
+
+34 - Interview with Gerard Anderson
+
+
+>> I hopefully it'll be more optimistic that time.
+
+
+35 - Conclusion
+
+
+There are historical reasons why our healthcare system is the way it is and  why we've been so slow to adopt health IT. For more on that and  more details on the U.S. healthcare system, refer to chapter one in the text.  Now that we have the background to understanding why fixing healthcare is  a national priority, we'll look at what the U.S.  federal government is doing to faster the adoption of health IT and  create new financial incentives to encourage more use of patient-centered care.
+
+
+01 - Introduction
+
+
+In this lesson we'll explore the unique characteristics of the U.S. healthcare  system, with a particular emphasis on the mismatch between what it's good at and  its structural issues which contribute to poor management of chronic disease,  the problems that account for most healthcare costs. Now it's time to  meet Marla, the chronic disease patient who will help us explore these issues.
+
+
+02 - Meet Marla
+
+
+This is Marla, a 59 year old woman who has become obese as she aged.  She has also smoked cigarettes for many years.  As a result she has developed several chronic diseases. Through Marla and  her story, we'll learn about chronic disease and the problem it creates for  the US health care system. We'll also gain the background to appreciate the key  role informatics can play in helping solve those problems. First,  Marla is not unusual. The Federal Government's Medicare program provides  health care for some 40 million people over the age of 65 and  pays for nearly half of U.S. hospital care, it is projected to  be a major contributor to future increases in health care spending.  83% of Medicare beneficiaries have at least chronic disease,  but the 23% that have 5 or more account for 2/3 of Medicare's costs.  Here is a list of relatively common chronic diseases. So now you know what some  of them are. I could have added cancer, since many people are surviving it and  being treated for years but we'll use this list for now. If you,  anyone in your family or anyone you know closely have had hypertension,  diabetes, chronic obstructive pulmonary disease, heart disease or  chronic kidney disease check that now.
+
+
+03 - Acute Medical Problems
+
+
+Before we get back to Marla, there's one thing you should know about chronic  disease. Medical problems like the flu and most other infections or  fractures, or so-called acute medical problems, because they either go away or  can be cured in a relatively short timeframe. Chronic problems are,  by definition, not curable. The best we can do is help the patient manage them,  so they don't get worse, and the often terrible complications of these diseases,  including death, either don't occur or are delayed.
+
+
+04 - Identifying Chronic Diseases
+
+
+Before answering this question I want to urge you to carefully read  all of the answers. It's entirely possible that more than  one will technically be correct. We're looking for the best answer. So,  by now it should be clear that chronic diseases are very important. So let's,  make sure you understand their key characteristics. Which of these is  not a chronic disease? Check any and all that apply.
+
+
+05 - Identifying Chronic Diseases
+
+
+As you can see, there are two answers.  An upper respiratory tract infection. Remember we said, infections were  an example of what is usually an acute medical problem. And an arm fracture.  Which is the other example we gave of what is usually an acute medical problem.
+
+
+06 - Categorizing
+
+
+Which of these are not true of chronic disease? Once again,  check any and all that apply.
+
+
+07 - Categorizing
+
+
+Here again there's more than one answer. Chronic diseases don't recur  after going away for long periods of time. They're chronic. Once you have them  you have them. And children are getting chronic diseases. In fact,  because more and more children are, at least in the United States, more and  more children are developing chronic diseases at an earlier and earlier age.
+
+
+08 - Chronic Disease Summary
+
+
+By now, you should have a clear picture of the key differences between  chronic and acute diseases. Unlike acute medical problems,  chronic diseases are more often caused by behavior, generally can't be cured,  and particularly if not well managed, can cause other chronic diseases and  complications that are difficult and  expensive to treat. Now with Marla's help we'll turn again to what for  our purposes is probably the key issue with respect to chronic disease. Though  they're very common, our healthcare system is not well designed to manage them.
+
+
+09 - Marlas Chronic Diseases
+
+
+Now back to Marla who already has four chronic diseases, she developed diabetes  15 years ago and is now showing early signs of lung problems called  chronic obstructive pulmonary disease, or COPD for short. In recent years,  her blood pressure has become elevated, and she is also taking medications for  that. She was also recently diagnosed with a heart problem  called coronary artery disease, and needs even more medications.  We already know one thing about chronic diseases they can't be cured.  Marla illustrates two other key points, they are often caused by behavior.  Marla,s obesity is caused by her poor diet rich in processed foods with  too many calories from fats and carbohydrates, combined with far too little  physical activity. This weight gain contributed to her developing diabetes and  high blood pressure,her lung disease was caused by her smoking. The second  key point about chronic diseases is they can cause other chronic diseases.  Marla's diabetes and high blood pressure contributed to the development of her  heart disease, and puts her at a greater risk for heart attack or  stroke. If her diabetes and high blood pressure are not well controlled,  she could develop chronic kidney disease and other more serious problems.
+
+
+10 - Fragmentation and Lack of Coordination
+
+
+Marla and the treatment of her chronic diseases can also help us understand  a key problem in our health care delivery system. It's fragmentation and  lack of coordination, and how infomatics can help fix that.  One way is by enabling a different approach to care.  Marla may have many problems, but she's still one person, so  her problems need to be managed in a coordinated way and within the context of  her capabilities, lifestyle, resources, and social situation.
+
+
+11 - Primary Care Physician PCP
+
+
+The term for this is Patient-Centered Care. This may sound like a strange term,  but the traditional health care system has often been designed and  optimized around the needs of providers, not patients. As a result,  care can be inconvenient. Patients have to wait appointments. And  may have to wait even once they arrive in the clinic.  All of this discourages coming, particularly for routine preventive care.  Patient Centered Care is designed around the needs of patients,  who may even be able to be seen the same day they request an appointment.  This care is delivered by a team. So that routine problems that  don't require a physician can be handled by a nurse or other provider. Again,  on a much more convenient and timely basis. A key tenant of patient  centered care is that all patients should have a Primary Care Physician, or PCP.  This is usually a family physician, general internist, or O-B-G-Y-N for  adults and a Pediatrician for children. There job includes having  a complete view of a patient and coordinating the care delivered by the team or  even other physicians. In a well-coordinated health care system,  every patient has a PCP. Since they may not have the skills or  knowledge to manage all of the problems a patient like Marla has,  part of the PCP's job is to refer patients to specialist, when needed, but  still to coordinate and oversee all of their care. In this last role,  the PCP is often referred to as the Gate Keeper. The person who  makes decisions about when they're patients need expensive, specialized care.
+
+
+12 - Health Maintenance Organization HMO
+
+
+Here in the US, the PCP as gatekeeper is almost always used by  health maintenance organizations or HMO's.  There's data to show that this provides better care quality at a lower cost.  Because of their key role in coordinating care, HMO physicians almost  always have electronic patient records, and have for some time now.  However, HMO's also almost always provide a more limited choice of physicians  as a means of cost control and to facilitate managing care quality. Marla,  like many Americans, gets health insurance from her employer. At work,  she didn't select an HMO mostly because she wanted a wider physician selection.  And she didn't like the idea of someone deciding for  her if she needed specialty care. She preferred to do that herself. As a result,  she doesn't have a PCP and get all of her care from many specialists.  Each of them focuses on the problem she has that is in their domain.
+
+
+13 - The Decline of PCPs
+
+
+In general, too much patient care in the US is provided this way. In part,  as we just discussed, this is because of patient choice. But,  if all patients wanted a PCP, we don't have enough of them to go around.  Only 12.3% of US patients practice primary care,  versus around 50% in France. The same comparison holds  true with other advanced industrialized nations. You can see here,  the US lags substantially in the percentage of primary care physicians.  The full reasons to be on this scope of this course. But one of them is that  specialists, shown in green here, makes significantly more money than PCP's.  Yet, as also shown here in blue, they leave medical school with the same  debt level. So it shouldn't be a surprise, as shown here, that over  the years the percentage of medical school graduates of selecting primary care,  the bottom blue line here, has decreased as the salary of a PCP,  as a percentage of what a specialist makes, has also declined.
+
+
+14 - The Job of a PCP
+
+
+By now it should be clear that PCPs are important. So,  let's make sure you understand their key characteristic. The jobs of  a PCP includes which of the following? Check all that apply.
+
+
+15 - The Job of a PCP
+
+
+In fact they're all correct. PCP's do direct directly care for their patients,  like any other physician. They refer their patients to specialists as needed,  we, we said that. They coordinate all of the care for their patients, no matter  who provides it, we also said that. And they promote patient-centered care.
+
+
+16 - PCPs in the US
+
+
+Which of the following are true about PCPs in the United States? Again, check any and all that apply.
+
+
+17 - PCPs in the US
+
+
+In this case, none of the answers are true. We certainly didn't say that PCPs  usually practice in a hospital. We know that they're in under, not oversupply.  We know that they make less than more specialized physicians and  as a result of that, we also know that primary care is decreasing in  popularity among medical school graduates.
+
+
+18 - Types of PCPs
+
+
+So, which of the following is not a PCP? Once again,  check any and all that apply.
+
+
+19 - Types of PCPs
+
+
+Here only the first answer is correct, a heart surgeon. We specifically listed  family physicians, obstetrician, and pediatricians as primary care physicians.
+
+
+20 - Chronic Disease Summary 2
+
+
+So, now you understand a bit about the alternate models of care delivery but  you may be asking, why does this matter? For the answers to that,  we turning in tomorrow to explore some of the serious problems facing U.S.  healthcare. This will set the stage for understanding the key  role that health IT may play in improving our healthcare system.
+
+
+21 - Healthcare Spending
+
+
+So, why is what we've covered so far important? Because these are some of  the reasons that the U.S. spends far more per capita, typically twice  as much on healthcare than other advanced industrialized nations.  That's certainly true if you again compare the U.S. to France. Moreover,  while increases in U.S. healthcare spending have slowed in recent years for  reasons that aren't yet clear, historically, our healthcare costs have  grown much faster than those in the same group of nations.  The [UNKNOWN] growth of chronic disease is one of the key reasons why.  Net spending might be okay if we were getting a great result, but again,  comparing the U.S., here, to this group of  industrialized countries and even some others, we rank 26th  in life expectancy, shown here. We're also a clear outlier,  spending far more but dying younger than the citizens of these other  countries that spend far less. Clearly a serious problem, but you may be asking,  what does that have to do with health informatics? We turn to that now.
+
+
+22 - Proliferation of Specialists
+
+
+Here's a key number, 14. Studies show that patients like Marla,  patients with four or five or more chronic conditions, are seen on average  each year by 14 different physicians. So why is this the case? Well,  they have a lot of problems that involve many different parts of their body.  In Marla's case, her lungs, her heart, her blood vessels, and  the insulin control system which is centered in an organ called the pancreas.
+
+
+23 - PCP vs Specialists
+
+
+There is a specialist, for each of these body systems. A Cardiologist for the Heart. A Pulmonary Specialist for the Lungs. An Endocrinologist for Diabetes. And an Internist to manage Hypertension. Unless Marla develops a particularly severe issue, of PCP might manage all of these problems. With occasional help from a specialist. Since she doesn't have a PCP, she ends up just seeing specialists. Unless things change, this trend towards specially care is projected to grow. By now you're probably wondering why this is a problem. Well primary care physicians have been shown. To deliver similar quality to specialists, for certain conditions such as Diabetes and Hypertension. Often while using fewer resources. They often provide better preventive care than specialists. Reflecting their ability to better manage the whole health of patients. And can help to reduce hospitalization rates.
+
+
+24 - Value of a PCP
+
+
+In fact it's been shown that if you increase the supply of primary care  physicians by just one for every 10,000 people. There's a significant increase  in quality and a significant decrease in the cost of Medicare which you may  remember takes care of older people who are more likely to have chronic disease.  Conversely, if there's a similar decrease in the availability of  primary care physicians, there's an almost equal decrease in quality, and  a nearly equal increase in the cost of Medicare. You may be asking,  why? Well, one of the major reasons is that specialists charge more.  And they do far more test than procedures. Moreover,  how do they coordinate their care? How does each of these specialists, and  remember Marla may not even see the same cardiologist every time she  visits that office, know what all of the others are doing?  In particular,. How do each of these specialists know what medications,  all the others have prescribed? This is important, because  the same research that showed Marla will likely see 14 providers each year,  also showed she will likely fill 50 prescriptions that same year.
+
+
+25 - PCPs Need IT Help
+
+
+However, even a PCP alone may not solve a coordination problem without some  electronic assistance. It's too complicated for that. Let's discuss the care  coordination situation facing the typical PCP who sees a lot of chronic disease  patients like Marla. Remember, there are 14 physicians involved in the care for  each of those patients. Studies have shown that there are a total of  86 physicians involved in caring for all patients like Marla,  in this one PCP's practice. Overall, this typical patient  center medical home interacts with 229 physicians each year.
+
+
+26 - PCPs Improve Care Coordination
+
+
+In fact, no matter what the care setting without electronic assistance, physicians don't often coordinate well. The commonwealth fund surveys patients like Marla. In 2011 they found that, quote, to varying degrees in all countries, chronically ill or sicker patients encounter failures of providers to communicate with each other or coordinate care. Yet in each country, patients with primary care practices that help them navigate the care system, and provide easy access are far less likely to encounter duplication delays and failures to share information. On set here, is that almost all patients in patient centered practices, shown in red here, are using electronic records. And you can see that they have lower, actually, significantly lower reported rates of care coordination problems.
+
+
+27 - IT To The Rescue
+
+
+In fact using electronic medical records is part of the definition,  of one of the most common forms of patient centered  care; the Patient Centered Medical home. Else where a key culprit,  in creating these coordination problems, has been paper records.  They can physically be in only one place, and are not easily shared.  Even if shared, they may not be easily understood due to legibility issues or  differences among physicians, in the terms they use to describe the same thing.  Most of Marla's specialists use paper records. Until recently,  here in the U.S, most physicians used them. This is rapidly changing, because,  of the new federal policies we'll explain in lesson two.  Electronic records and data sharing can help coordinate care.  Here's data from a recent survey of physicians who are using these technologies,  and they substantially agree that it helps improve communication,  more available data. Interestingly and importantly, both PCPs and  specialists. With electronic records, say care is more coordinated and  communications are improved, presumably because data is immediately available  when and where it is needed, as the majority of these physicians reported.
+
+
+28 - Using IT to Build a Better Healthcare System
+
+
+And that's the primary goal of contemporary health [UNKNOWN]. To turn our fragmented, poorly coordinated health care system into a system that uses digital information in a seamless way to provide optimal care to all patients. Even those as complicated as Morella. To understand that with more detail, in lesson three, we'll go with Morella as she visits her endocrinologist, her diabetes doctor, Doctor Johnson.
+
+
+33 - Recap
+
+
+With Marla's help, we've covered some of the key problems in US healthcare and  some of the principal arguments for the increased use of health IT.  Most health care is concerned with the management of chronic diseases.  Proper management requires a highly coordinated, more continuous approach to  care that welds together many providers into a seamless delivery system.  At the center of such a patient centered system of care is the primary care  physician, whose role is knowing everything about their patients, so  they can coordinate their care. In practice this is very difficult to  achieve because of the shortage of primary care physicians here in the US and  the large number of providers who are involved. Particularly in the care of  patients like Marla who have multiple chronic diseases.  Coordinating this requires electronic records, ideally for the providers and  patients, and the seamless exchange of information among them.  This same information can be used to manage health of populations of patients or  the public at large. It can also be used for research to gain new  medical knowledge and even learn how we can improve health care delivery.
+
+
+34 - Interview with Gerard Anderson
+
+
+>> I hopefully it'll be more optimistic that time.
+
+
+35 - Conclusion
+
+
+There are historical reasons why our healthcare system is the way it is and  why we've been so slow to adopt health IT. For more on that and  more details on the U.S. healthcare system, refer to chapter one in the text.  Now that we have the background to understanding why fixing healthcare is  a national priority, we'll look at what the U.S.  federal government is doing to faster the adoption of health IT and  create new financial incentives to encourage more use of patient-centered care.
+
+
